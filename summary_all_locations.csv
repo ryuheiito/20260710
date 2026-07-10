@@ -1,0 +1,3 @@
+﻿input_name,input_lat,input_lon,station_name,station_id,prec_no,block_no,kubun,distance_km,period,data_days,alltime_max_wind,alltime_max_wind_date,alltime_max_wind_dir,alltime_max_wind_period,alltime_max_gust,alltime_max_gust_date,alltime_max_gust_dir,alltime_max_gust_period
+mc,35.13823871,135.055734,柏原,63216,63,0614,a,0.86,直近30年,10958,20.0,1991/9/27,南南東,1978/12 2026/7,28.3,2018/8/24,南,2008/3 2026/7
+石見サービス,35.20148201,135.0535482,柏原,63216,63,0614,a,7.28,直近30年,10958,20.0,1991/9/27,南南東,1978/12 2026/7,28.3,2018/8/24,南,2008/3 2026/7
